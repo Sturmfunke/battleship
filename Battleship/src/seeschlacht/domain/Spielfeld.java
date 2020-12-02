@@ -28,6 +28,15 @@ public class Spielfeld {
 			return feldSpieler2[x][y];
 		}
 	}
+	
+	public void setzeSchiffe() {
+		int anzahlFünfer = 1;
+		int anzahlVierer = 2;
+		int anzahlDreier = 3;
+		int anzahlZweier = 4;
+		
+		
+	}
 
 	public String schussAusführen(int x, int y) {
 		Feld feld = new Feld();

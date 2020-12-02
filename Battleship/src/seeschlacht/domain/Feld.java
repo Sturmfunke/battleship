@@ -1,7 +1,5 @@
 package seeschlacht.domain;
 
-import seeschlacht.domain.schiffe.Schiff;
-
 public class Feld {
 	//private final String name;
 	private boolean isSchuss = false;

@@ -37,7 +37,7 @@ public class UI {
 			System.out.println("-> " + spielfeld.schussAusführen(eingabe.charAt(0) - 'A', 8 - (eingabe.charAt(1) - '0') ));
 		}
 
-		System.out.println("Cheerio!");
+
 	}
 	
 
