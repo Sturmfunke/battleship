@@ -20,6 +20,10 @@ public class Spielfeld {
 			}
 		}		
 	}
+	
+	public Spielfeld(int feld) {
+		
+	}
 		
 	public Feld getFeld(int x, int y, boolean spieler) {
 		if (spieler = SPIELER1) {
